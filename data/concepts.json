@@ -1,0 +1,30 @@
+[
+  {
+    "Topic": "STL",
+    "Subtopic": "vector",
+    "Algorithm": "push_back, erase, iterators",
+    "STL Focus": "vector<int>",
+    "Time": "1h"
+  },
+  {
+    "Topic": "STL",
+    "Subtopic": "unordered_map",
+    "Algorithm": "insert, find, operator[]",
+    "STL Focus": "unordered_map<int,int>",
+    "Time": "1h"
+  },
+  {
+    "Topic": "Arrays",
+    "Subtopic": "Sliding Window",
+    "Algorithm": "fixed/variable window patterns",
+    "STL Focus": "vector, unordered_map",
+    "Time": "1.5h"
+  },
+  {
+    "Topic": "DP",
+    "Subtopic": "Knapsack",
+    "Algorithm": "memoization & tabulation",
+    "STL Focus": "vector<vector<int>>",
+    "Time": "2h"
+  }
+]

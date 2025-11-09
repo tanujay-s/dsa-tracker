@@ -1,0 +1,212 @@
+[
+  {
+    "Week": 1,
+    "Phase": "STL",
+    "Topic": "Vectors & Basics",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 2,
+    "Phase": "STL",
+    "Topic": "Maps & Unordered Maps",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 3,
+    "Phase": "STL",
+    "Topic": "Sets & Multisets",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 4,
+    "Phase": "STL",
+    "Topic": "Priority Queue & Heaps",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 5,
+    "Phase": "STL",
+    "Topic": "Queue/Stack/Deque",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 6,
+    "Phase": "Arrays",
+    "Topic": "Basics & Prefix Sum",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 7,
+    "Phase": "Arrays",
+    "Topic": "Two Pointers",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 8,
+    "Phase": "Arrays",
+    "Topic": "Sliding Window",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 9,
+    "Phase": "Strings",
+    "Topic": "Basics",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 10,
+    "Phase": "Strings",
+    "Topic": "Anagrams & Substrings",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 11,
+    "Phase": "Linked List",
+    "Topic": "Singly/Doubly/Reverse",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 12,
+    "Phase": "Linked List",
+    "Topic": "Cycles & Merge",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 13,
+    "Phase": "Recursion",
+    "Topic": "Basics",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 14,
+    "Phase": "Backtracking",
+    "Topic": "Subsets/Permutations",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 15,
+    "Phase": "Sorting",
+    "Topic": "Binary Search Variants",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 16,
+    "Phase": "Sorting",
+    "Topic": "Merge & Quick Sort",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 17,
+    "Phase": "Stack & Queue",
+    "Topic": "Monotonic Stack",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 18,
+    "Phase": "Trees",
+    "Topic": "Binary Tree Traversals",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 19,
+    "Phase": "Trees",
+    "Topic": "BST & Tree Problems",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 20,
+    "Phase": "Graphs",
+    "Topic": "BFS/DFS Basics",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 21,
+    "Phase": "Graphs",
+    "Topic": "Shortest Paths",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 22,
+    "Phase": "Greedy",
+    "Topic": "Interval Scheduling",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 23,
+    "Phase": "Heaps",
+    "Topic": "Kth / Median",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 24,
+    "Phase": "DP",
+    "Topic": "1D DP & Knapsack",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 25,
+    "Phase": "DP",
+    "Topic": "2D DP & Subsequences",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 26,
+    "Phase": "DP",
+    "Topic": "Advanced DP & Bitmask",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 27,
+    "Phase": "Range DS",
+    "Topic": "Fenwick / BIT",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 28,
+    "Phase": "Range DS",
+    "Topic": "Segment Tree",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 29,
+    "Phase": "Strings",
+    "Topic": "KMP & Rolling Hash",
+    "Goal": "Core ideas + problems",
+    "Problems": 20
+  },
+  {
+    "Week": 30,
+    "Phase": "Tries",
+    "Topic": "Prefix Tree / Autocomplete",
+    "Goal": "Core ideas + problems",
+    "Problems": 40
+  }
+]

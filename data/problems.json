@@ -1,0 +1,4682 @@
+[
+  {
+    "ID": 1,
+    "Topic": "Arrays",
+    "Problem": "Two Sum",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "HashMap",
+    "Link": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "ID": 2,
+    "Topic": "Arrays",
+    "Problem": "Best Time to Buy and Sell Stock",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Kadane/Greedy",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+  },
+  {
+    "ID": 3,
+    "Topic": "Arrays",
+    "Problem": "Maximum Subarray",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Kadane",
+    "Link": "https://leetcode.com/problems/maximum-subarray/"
+  },
+  {
+    "ID": 4,
+    "Topic": "Arrays",
+    "Problem": "Product of Array Except Self",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Prefix/Suffix",
+    "Link": "https://leetcode.com/problems/product-of-array-except-self/"
+  },
+  {
+    "ID": 5,
+    "Topic": "Strings",
+    "Problem": "Longest Substring Without Repeating Characters",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Sliding Window",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "ID": 6,
+    "Topic": "Strings",
+    "Problem": "Group Anagrams",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Hashing",
+    "Link": "https://leetcode.com/problems/group-anagrams/"
+  },
+  {
+    "ID": 7,
+    "Topic": "Linked List",
+    "Problem": "Reverse Linked List",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Pointers",
+    "Link": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "ID": 8,
+    "Topic": "Linked List",
+    "Problem": "Merge Two Sorted Lists",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Two Pointers",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "ID": 9,
+    "Topic": "Stack & Queue",
+    "Problem": "Valid Parentheses",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Stack",
+    "Link": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "ID": 10,
+    "Topic": "Trees",
+    "Problem": "Binary Tree Level Order Traversal",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "BFS",
+    "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
+    "ID": 11,
+    "Topic": "Graphs",
+    "Problem": "Number of Islands",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "DFS/BFS",
+    "Link": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "ID": 12,
+    "Topic": "Graphs",
+    "Problem": "Course Schedule",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Topological Sort",
+    "Link": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "ID": 13,
+    "Topic": "DP",
+    "Problem": "Climbing Stairs",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "DP",
+    "Link": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "ID": 14,
+    "Topic": "DP",
+    "Problem": "Longest Increasing Subsequence",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "DP",
+    "Link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+  },
+  {
+    "ID": 15,
+    "Topic": "Sorting & Searching",
+    "Problem": "Search in Rotated Sorted Array",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Binary Search",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  {
+    "ID": 16,
+    "Topic": "Greedy",
+    "Problem": "Merge Intervals",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Sorting",
+    "Link": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "ID": 17,
+    "Topic": "Heaps",
+    "Problem": "Kth Largest Element in an Array",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Heap",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "ID": 18,
+    "Topic": "Trie",
+    "Problem": "Implement Trie (Prefix Tree)",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Trie",
+    "Link": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+  },
+  {
+    "ID": 19,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 19",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 20,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 20",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 21,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 21",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 22,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 22",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 23,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 23",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 24,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 24",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 25,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 25",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 26,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 26",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 27,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 27",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 28,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 28",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 29,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 29",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 30,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 30",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 31,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 31",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 32,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 32",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 33,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 33",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 34,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 34",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 35,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 35",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 36,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 36",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 37,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 37",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 38,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 38",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 39,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 39",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 40,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 40",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 41,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 41",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 42,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 42",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 43,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 43",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 44,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 44",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 45,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 45",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 46,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 46",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 47,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 47",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 48,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 48",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 49,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 49",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 50,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 50",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 51,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 51",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 52,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 52",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 53,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 53",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 54,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 54",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 55,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 55",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 56,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 56",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 57,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 57",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 58,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 58",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 59,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 59",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 60,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 60",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 61,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 61",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 62,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 62",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 63,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 63",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 64,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 64",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 65,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 65",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 66,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 66",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 67,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 67",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 68,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 68",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 69,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 69",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 70,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 70",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 71,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 71",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 72,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 72",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 73,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 73",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 74,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 74",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 75,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 75",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 76,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 76",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 77,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 77",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 78,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 78",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 79,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 79",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 80,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 80",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 81,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 81",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 82,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 82",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 83,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 83",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 84,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 84",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 85,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 85",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 86,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 86",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 87,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 87",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 88,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 88",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 89,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 89",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 90,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 90",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 91,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 91",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 92,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 92",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 93,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 93",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 94,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 94",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 95,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 95",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 96,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 96",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 97,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 97",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 98,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 98",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 99,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 99",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 100,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 100",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 101,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 101",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 102,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 102",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 103,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 103",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 104,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 104",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 105,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 105",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 106,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 106",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 107,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 107",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 108,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 108",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 109,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 109",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 110,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 110",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 111,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 111",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 112,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 112",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 113,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 113",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 114,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 114",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 115,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 115",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 116,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 116",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 117,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 117",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 118,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 118",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 119,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 119",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 120,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 120",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 121,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 121",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 122,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 122",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 123,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 123",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 124,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 124",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 125,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 125",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 126,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 126",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 127,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 127",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 128,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 128",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 129,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 129",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 130,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 130",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 131,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 131",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 132,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 132",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 133,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 133",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 134,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 134",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 135,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 135",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 136,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 136",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 137,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 137",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 138,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 138",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 139,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 139",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 140,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 140",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 141,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 141",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 142,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 142",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 143,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 143",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 144,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 144",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 145,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 145",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 146,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 146",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 147,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 147",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 148,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 148",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 149,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 149",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 150,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 150",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 151,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 151",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 152,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 152",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 153,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 153",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 154,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 154",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 155,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 155",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 156,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 156",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 157,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 157",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 158,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 158",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 159,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 159",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 160,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 160",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 161,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 161",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 162,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 162",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 163,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 163",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 164,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 164",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 165,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 165",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 166,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 166",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 167,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 167",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 168,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 168",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 169,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 169",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 170,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 170",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 171,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 171",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 172,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 172",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 173,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 173",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 174,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 174",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 175,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 175",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 176,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 176",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 177,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 177",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 178,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 178",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 179,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 179",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 180,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 180",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 181,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 181",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 182,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 182",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 183,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 183",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 184,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 184",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 185,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 185",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 186,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 186",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 187,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 187",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 188,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 188",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 189,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 189",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 190,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 190",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 191,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 191",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 192,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 192",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 193,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 193",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 194,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 194",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 195,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 195",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 196,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 196",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 197,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 197",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 198,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 198",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 199,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 199",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 200,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 200",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 201,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 201",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 202,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 202",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 203,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 203",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 204,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 204",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 205,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 205",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 206,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 206",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 207,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 207",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 208,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 208",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 209,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 209",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 210,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 210",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 211,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 211",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 212,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 212",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 213,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 213",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 214,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 214",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 215,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 215",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 216,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 216",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 217,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 217",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 218,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 218",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 219,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 219",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 220,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 220",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 221,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 221",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 222,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 222",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 223,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 223",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 224,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 224",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 225,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 225",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 226,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 226",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 227,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 227",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 228,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 228",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 229,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 229",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 230,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 230",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 231,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 231",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 232,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 232",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 233,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 233",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 234,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 234",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 235,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 235",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 236,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 236",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 237,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 237",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 238,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 238",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 239,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 239",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 240,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 240",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 241,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 241",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 242,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 242",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 243,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 243",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 244,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 244",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 245,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 245",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 246,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 246",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 247,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 247",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 248,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 248",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 249,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 249",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 250,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 250",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 251,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 251",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 252,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 252",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 253,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 253",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 254,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 254",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 255,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 255",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 256,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 256",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 257,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 257",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 258,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 258",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 259,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 259",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 260,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 260",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 261,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 261",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 262,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 262",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 263,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 263",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 264,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 264",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 265,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 265",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 266,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 266",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 267,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 267",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 268,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 268",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 269,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 269",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 270,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 270",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 271,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 271",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 272,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 272",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 273,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 273",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 274,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 274",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 275,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 275",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 276,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 276",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 277,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 277",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 278,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 278",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 279,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 279",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 280,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 280",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 281,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 281",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 282,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 282",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 283,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 283",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 284,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 284",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 285,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 285",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 286,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 286",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 287,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 287",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 288,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 288",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 289,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 289",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 290,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 290",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 291,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 291",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 292,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 292",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 293,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 293",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 294,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 294",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 295,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 295",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 296,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 296",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 297,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 297",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 298,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 298",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 299,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 299",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 300,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 300",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 301,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 301",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 302,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 302",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 303,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 303",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 304,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 304",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 305,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 305",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 306,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 306",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 307,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 307",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 308,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 308",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 309,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 309",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 310,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 310",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 311,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 311",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 312,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 312",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 313,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 313",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 314,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 314",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 315,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 315",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 316,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 316",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 317,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 317",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 318,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 318",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 319,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 319",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 320,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 320",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 321,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 321",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 322,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 322",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 323,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 323",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 324,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 324",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 325,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 325",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 326,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 326",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 327,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 327",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 328,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 328",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 329,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 329",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 330,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 330",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 331,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 331",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 332,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 332",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 333,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 333",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 334,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 334",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 335,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 335",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 336,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 336",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 337,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 337",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 338,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 338",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 339,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 339",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 340,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 340",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 341,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 341",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 342,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 342",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 343,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 343",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 344,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 344",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 345,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 345",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 346,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 346",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 347,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 347",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 348,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 348",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 349,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 349",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 350,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 350",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 351,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 351",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 352,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 352",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 353,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 353",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 354,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 354",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 355,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 355",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 356,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 356",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 357,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 357",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 358,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 358",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 359,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 359",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 360,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 360",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 361,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 361",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 362,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 362",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 363,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 363",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 364,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 364",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 365,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 365",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 366,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 366",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 367,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 367",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 368,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 368",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 369,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 369",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 370,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 370",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 371,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 371",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 372,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 372",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 373,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 373",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 374,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 374",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 375,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 375",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 376,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 376",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 377,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 377",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 378,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 378",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 379,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 379",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 380,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 380",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 381,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 381",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 382,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 382",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 383,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 383",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 384,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 384",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 385,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 385",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 386,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 386",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 387,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 387",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 388,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 388",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 389,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 389",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 390,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 390",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 391,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 391",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 392,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 392",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 393,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 393",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 394,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 394",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 395,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 395",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 396,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 396",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 397,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 397",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 398,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 398",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 399,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 399",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 400,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 400",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 401,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 401",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 402,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 402",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 403,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 403",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 404,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 404",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 405,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 405",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 406,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 406",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 407,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 407",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 408,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 408",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 409,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 409",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 410,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 410",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 411,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 411",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 412,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 412",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 413,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 413",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 414,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 414",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 415,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 415",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 416,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 416",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 417,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 417",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 418,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 418",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 419,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 419",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 420,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 420",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 421,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 421",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 422,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 422",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 423,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 423",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 424,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 424",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 425,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 425",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 426,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 426",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 427,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 427",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 428,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 428",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 429,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 429",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 430,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 430",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 431,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 431",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 432,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 432",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 433,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 433",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 434,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 434",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 435,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 435",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 436,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 436",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 437,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 437",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 438,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 438",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 439,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 439",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 440,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 440",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 441,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 441",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 442,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 442",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 443,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 443",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 444,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 444",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 445,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 445",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 446,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 446",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 447,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 447",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 448,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 448",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 449,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 449",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 450,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 450",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 451,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 451",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 452,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 452",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 453,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 453",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 454,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 454",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 455,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 455",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 456,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 456",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 457,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 457",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 458,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 458",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 459,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 459",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 460,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 460",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 461,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 461",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 462,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 462",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 463,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 463",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 464,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 464",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 465,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 465",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 466,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 466",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 467,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 467",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 468,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 468",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 469,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 469",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 470,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 470",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 471,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 471",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 472,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 472",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 473,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 473",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 474,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 474",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 475,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 475",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 476,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 476",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 477,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 477",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 478,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 478",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 479,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 479",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 480,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 480",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 481,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 481",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 482,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 482",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 483,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 483",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 484,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 484",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 485,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 485",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 486,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 486",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 487,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 487",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 488,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 488",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 489,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 489",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 490,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 490",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 491,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 491",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 492,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 492",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 493,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 493",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 494,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 494",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 495,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 495",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 496,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 496",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 497,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 497",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 498,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 498",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 499,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 499",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 500,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 500",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 501,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 501",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 502,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 502",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 503,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 503",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 504,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 504",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 505,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 505",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 506,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 506",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 507,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 507",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 508,
+    "Topic": "Greedy & Heaps",
+    "Problem": "Greedy & Heaps Practice Problem 508",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 509,
+    "Topic": "Advanced DS",
+    "Problem": "Advanced DS Practice Problem 509",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 510,
+    "Topic": "STL Practice",
+    "Problem": "STL Practice Practice Problem 510",
+    "Platform": "GeeksforGeeks",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 511,
+    "Topic": "Recursion",
+    "Problem": "Recursion Practice Problem 511",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 512,
+    "Topic": "Backtracking",
+    "Problem": "Backtracking Practice Problem 512",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 513,
+    "Topic": "Arrays",
+    "Problem": "Arrays Practice Problem 513",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 514,
+    "Topic": "Strings",
+    "Problem": "Strings Practice Problem 514",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 515,
+    "Topic": "Linked List",
+    "Problem": "Linked List Practice Problem 515",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 516,
+    "Topic": "Stack & Queue",
+    "Problem": "Stack & Queue Practice Problem 516",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 517,
+    "Topic": "Trees",
+    "Problem": "Trees Practice Problem 517",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 518,
+    "Topic": "Graphs",
+    "Problem": "Graphs Practice Problem 518",
+    "Platform": "LeetCode",
+    "Difficulty": "Hard",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 519,
+    "Topic": "Dynamic Programming",
+    "Problem": "Dynamic Programming Practice Problem 519",
+    "Platform": "LeetCode",
+    "Difficulty": "Easy",
+    "Pattern": "Practice",
+    "Link": "#"
+  },
+  {
+    "ID": 520,
+    "Topic": "Sorting & Searching",
+    "Problem": "Sorting & Searching Practice Problem 520",
+    "Platform": "LeetCode",
+    "Difficulty": "Medium",
+    "Pattern": "Practice",
+    "Link": "#"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "STL Component": "vector",
+    "Key Functions": "push_back, pop_back, insert, erase, size, begin/end"
+  },
+  {
+    "STL Component": "map",
+    "Key Functions": "operator[], insert, find, erase, lower_bound"
+  },
+  {
+    "STL Component": "unordered_map",
+    "Key Functions": "operator[], insert, find, erase"
+  },
+  {
+    "STL Component": "priority_queue",
+    "Key Functions": "push, pop, top, empty, custom comparator"
+  }
+]
