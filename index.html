@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DSA Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="header">DSA Mastery Tracker — 30 Weeks · C++</header>
+<div class="container">
+  <main id="main">
+    <!-- Dashboard -->
+    <section id="dashboard" class="card">
+      <h3>Dashboard</h3>
+      <div class="kpis">
+        <div class="kpi card"><div class="small">Solved</div><div id="solvedCount" class="kpi-num">0</div></div>
+        <div class="kpi card"><div class="small">Total</div><div id="totalCount" class="kpi-num">0</div></div>
+        <div class="kpi card"><div class="small">Completion</div><div id="percentText" class="kpi-num">0%</div></div>
+      </div>
+      <div class="card">
+        <div class="small">Overall progress</div>
+        <div class="prog-bar"><div id="progFill" class="prog-fill"></div></div>
+      </div>
+    </section>
+
+    <!-- Roadmap -->
+    <section id="roadmap" class="card" style="display:none">
+      <h3>30-Week Roadmap</h3>
+      <div id="roadmapList"></div>
+    </section>
+
+    <!-- Problems -->
+    <section id="problems" class="card" style="display:none">
+      <h3>Problem Bank</h3>
+      <input type="text" id="searchInput" placeholder="Search problems or topics...">
+      <div id="problemList"></div>
+    </section>
+
+    <!-- Concepts -->
+    <section id="concepts" class="card" style="display:none">
+      <h3>Concepts & Algorithms</h3>
+      <div id="conceptList"></div>
+    </section>
+
+    <!-- STL -->
+    <section id="stl" class="card" style="display:none">
+      <h3>STL Reference</h3>
+      <div id="stlList"></div>
+    </section>
+  </main>
+</div>
+
+<nav class="bottom-nav">
+  <button class="active" data-target="dashboard">Dashboard</button>
+  <button data-target="roadmap">Roadmap</button>
+  <button data-target="problems">Problems</button>
+  <button data-target="concepts">Concepts</button>
+  <button data-target="stl">STL</button>
+</nav>
+
+<script src="script.js"></script>
+</body>
+</html>
