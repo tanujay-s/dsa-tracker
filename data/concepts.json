@@ -1,14 +1,365 @@
 [
-  {"Topic":"Arrays","Subtopic":"Sliding Window (all types)","Algorithm":"fixed, variable, k-distinct, at-most/at-least","Slug":"sliding-window"},
-  {"Topic":"Arrays","Subtopic":"Two Pointers Variations","Algorithm":"opposite ends, same direction, fast/slow cycle","Slug":"two-pointers"},
-  {"Topic":"Arrays","Subtopic":"Prefix/Suffix & Difference Arrays","Algorithm":"range updates, prefix mins/max, prefix hash","Slug":"prefix-sum"},
-  {"Topic":"Arrays","Subtopic":"Kadane & Variants","Algorithm":"max subarray, circular, 2D, k-concat","Slug":"kadane-variants"},
-  {"Topic":"Strings","Subtopic":"KMP Prefix Function","Algorithm":"π-function, pattern matching O(n+m)","Slug":"kmp"},
-  {"Topic":"Strings","Subtopic":"Z-Algorithm","Algorithm":"Z-boxes, pattern matching, concat trick","Slug":"z-algorithm"},
-  {"Topic":"Graphs","Subtopic":"Disjoint Set Union (Union-Find)","Algorithm":"path compression + union by rank","Slug":"dsu"},
-  {"Topic":"Graphs","Subtopic":"Dijkstra / 0-1 BFS","Algorithm":"PQ shortest path, deque for 0/1 weights","Slug":"dijkstra-01bfs"},
-  {"Topic":"Stacks","Subtopic":"Monotonic Stack","Algorithm":"NGE/PLE/NSR, histogram, stock span","Slug":"monotonic-stack"},
-  {"Topic":"DP","Subtopic":"Bitmask DP","Algorithm":"subset DP, TSP, SOS DP overview","Slug":"bitmask-dp"},
-  {"Topic":"Range DS","Subtopic":"Segment Tree (+Lazy)","Algorithm":"range query/update, propagation","Slug":"segment-tree"},
-  {"Topic":"Range DS","Subtopic":"Fenwick Tree (BIT)","Algorithm":"prefix sums, range add/point query","Slug":"fenwick-tree"}
+  {
+    "Topic": "Foundations",
+    "Subtopic": "Time & Space Complexity",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=kunal+kushwaha+time+and+space+complexity",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+time+complexity",
+      "Advanced": "https://www.youtube.com/results?search_query=william+fiset+asymptotic+analysis"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/analysis-of-algorithms-time-complexity-and-space-complexity/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/general-discussion/1128917/big-o-notation-and-time-complexity-cheat-sheet"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/grokking-time-complexity"
+    }
+  },
+  {
+    "Topic": "Foundations",
+    "Subtopic": "Problem-Solving Patterns Overview",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=kunal+kushwaha+patterns+coding+interview",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+patterns+sliding+window+two+pointers",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+techniques+cp"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/top-50-algorithms-in-interview-questions/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/study-guide/1905959/14-patterns-to-ace-any-coding-interview"}
+    },
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/grokking-the-coding-interview"
+    }
+  },
+  {
+    "Topic": "Foundations",
+    "Subtopic": "Recursion Mastery",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=jenny%27s+lectures+recursion",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+recursion+backtracking",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+recursion+dp"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/recursion/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/algebra/recurrence-relations.html"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/study-guide/1389397/recursion-and-backtracking-overview"}
+    ],
+    "Premium": {
+      "Book": "🌟 https://www.crackingthecodinginterview.com/"
+    }
+  },
+
+  {
+    "Topic": "Arrays",
+    "Subtopic": "Sliding Window (fixed/variable, at-most/at-least)",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=kunal+kushwaha+sliding+window",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+sliding+window",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+sliding+window"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/window-sliding-technique/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/two_pointers/ones_and_zeros.html"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/general-discussion/657507/Sliding-Window-for-Beginners-Problems-or-Template-or-Sample-Solutions"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/grokking-the-coding-interview"
+    }
+  },
+  {
+    "Topic": "Arrays",
+    "Subtopic": "Two Pointers (opposite/same direction, fast/slow)",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=kunal+kushwaha+two+pointers",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+two+pointers",
+      "Advanced": "https://www.youtube.com/results?search_query=william+fiset+two+pointers"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/two-pointers-technique/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/two_pointers/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/study-guide/1688907/two-pointers-technique-pattern-summary"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/grokking-the-coding-interview"
+    }
+  },
+  {
+    "Topic": "Arrays",
+    "Subtopic": "Prefix/Suffix & Difference Arrays",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=jenny%27s+lectures+prefix+sum",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+prefix+sum+difference+array",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+prefix+sum"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/prefix-sum-array-implementation-applications-competitive-programming/"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/difference-array-range-update-query-o1/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/general-discussion/1099643/prefix-sum-technique-pattern"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Arrays",
+    "Subtopic": "Kadane & Variants (circular, 2D, k-concat)",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=aditya+verma+kadane+algorithm",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+kadane+circular",
+      "Advanced": "https://www.youtube.com/results?search_query=william+fiset+maximum+subarray"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/discuss/178422/Kadane%27s-algorithm"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/maximum-subarray-sum-using-divide-and-conquer-algorithm/"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Arrays",
+    "Subtopic": "Dutch National Flag (0/1/2) & Partitions",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=kunal+kushwaha+dutch+national+flag",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+sort+colors",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+partition+array+quicksort+partition"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/sort-colors/discuss/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/algebra/sorting-comparisons.html"}
+    ],
+    "Premium": {
+      "Book": "🌟 https://www.pearson.com/en-us/subject-catalog/p/introduction-to-algorithms-4th-edition/P200000007982/9780262046305"
+    }
+  },
+  {
+    "Topic": "Searching & Sorting",
+    "Subtopic": "Binary Search Patterns (on value/answer, on index)",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=jenny%27s+lectures+binary+search",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+binary+search+on+answer",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+binary+search+on+answer"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/binary-search/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/num_methods/binary_search.html"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/study-guide/1331677/binary-search-patterns"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Intervals",
+    "Subtopic": "Merge Intervals & Variants",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=kunal+kushwaha+merge+intervals",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+merge+intervals",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+interval+problems"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/merging-intervals/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/merge-intervals/discuss/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/data_structures/segment_tree.html"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/grokking-the-coding-interview"
+    }
+  },
+
+  {
+    "Topic": "Strings",
+    "Subtopic": "KMP Prefix Function",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=jenny%27s+lectures+kmp",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+kmp+prefix+function",
+      "Advanced": "https://www.youtube.com/results?search_query=william+fiset+kmp"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/string/prefix-function.html"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/study-guide/1039284/string-matching-kmp"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Strings",
+    "Subtopic": "Z Algorithm",
+    "Level": "Advanced",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=jenny%27s+lectures+z+algorithm",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+z+algorithm",
+      "Advanced": "https://www.youtube.com/results?search_query=cp+algorithms+z+function+video"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/string/z-function.html"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/general-discussion/126923/knuth-morris-pratt-kmp-z-algorithm-explained"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/path/competitive-programming"
+    }
+  },
+  {
+    "Topic": "Strings",
+    "Subtopic": "String Hashing / Rolling Hash",
+    "Level": "Advanced",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=rolling+hash+string+hashing+beginner",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+rolling+hash",
+      "Advanced": "https://www.youtube.com/results?search_query=cp+algorithms+string+hashing"
+    },
+    "Blogs": [
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/string/string-hashing.html"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/study-guide/1040632/rolling-hash-and-rabin-karp"}
+    ],
+    "Premium": {
+      "Book": "🌟 https://cp-algorithms.com/book.html"
+    }
+  },
+  {
+    "Topic": "Strings",
+    "Subtopic": "Anagrams & Frequency Maps",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=kunal+kushwaha+anagram",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+anagram+group+anagrams",
+      "Advanced": "https://www.youtube.com/results?search_query=william+fiset+hash+maps"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/group-anagrams/discuss/"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/sort-characters-by-frequency/"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Strings",
+    "Subtopic": "Palindrome Patterns (expand center / DP)",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=jenny%27s+lectures+longest+palindromic+substring",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+palindromic+substrings+dp",
+      "Advanced": "https://www.youtube.com/results?search_query=manacher%27s+algorithm+advanced"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/longest-palindromic-substring/discuss/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/string/manacher.html"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+
+  {
+    "Topic": "Stacks & Queues",
+    "Subtopic": "Monotonic Stack (NGE/PLE/Histogram)",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=aditya+verma+stack+largest+rectangle+histogram",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+monotonic+stack",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+monotonic+stack"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/next-greater-element/"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/largest-rectangular-area-in-a-histogram/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/study-guide/1652061/monotonic-stack-summary"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Stacks & Queues",
+    "Subtopic": "Monotonic Queue / Deque (Sliding Window Max)",
+    "Level": "Advanced",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=sliding+window+maximum+deque+explanation",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+sliding+window+maximum",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+deque+trick"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/sliding-window-maximum/discuss/"},
+      {"site": "CP-Algorithms", "url": "https://cp-algorithms.com/data_structures/deque.html"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Stacks & Queues",
+    "Subtopic": "Min Stack / Min Queue",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=min+stack+explanation+beginner",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+min+stack",
+      "Advanced": "https://www.youtube.com/results?search_query=monotonic+queue+min+queue+cp"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/design-and-implement-special-stack-data-structure/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/min-stack/discuss/"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/queue-with-maximum-or-minimum-using-dequeue/"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Stacks & Queues",
+    "Subtopic": "Valid Parentheses & Variants",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=valid+parentheses+stack+kunal+kushwaha",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+valid+parentheses",
+      "Advanced": "https://www.youtube.com/results?search_query=parentheses+problems+hard+leetcode"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/problems/valid-parentheses/discuss/"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/longest-valid-parentheses/"}      
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/algorithms-coding-interviews"
+    }
+  },
+  {
+    "Topic": "Backtracking",
+    "Subtopic": "Templates & Recursion Tree (Subsets/Permutations)",
+    "Level": "Core",
+    "Videos": {
+      "Beginner": "https://www.youtube.com/results?search_query=aditya+verma+backtracking",
+      "Intermediate": "https://www.youtube.com/results?search_query=take+u+forward+backtracking+subsets+permutations",
+      "Advanced": "https://www.youtube.com/results?search_query=errichto+backtracking+pruning"
+    },
+    "Blogs": [
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/backtracking-algorithms/"},
+      {"site": "LeetCode Discuss", "url": "https://leetcode.com/discuss/general-discussion/460599/backtracking-summary"},
+      {"site": "GFG", "url": "https://www.geeksforgeeks.org/power-set/"}
+    ],
+    "Premium": {
+      "Course": "🌟 https://www.educative.io/courses/recursion-backtracking"
+    }
+  }
 ]
